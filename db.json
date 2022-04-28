@@ -1,11 +1,14 @@
 {
-  "posts": [
+  "orders": [
     {
       "id": 1,
-      "title": "hello"
+      "name": "Airpods Pro",
+      "price": 1999
+    },
+    {
+      "id": 2,
+      "name": "iPhone",
+      "price": 6799
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
