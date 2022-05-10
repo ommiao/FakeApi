@@ -1,13 +1,17 @@
 {
   "bidding-contracts": [
     {
-      "id": "1",
-      "deposit-payment": {
-        "order-info": {
-          "id": "20220509225200001",
-          "amount": 1000.0
-        }
-      }
+      "id": "1"
     }
-  ]
+  ],
+  "deposit-payment": {
+    "id":  "1",
+    "bidding-contractId": "1"
+  }
+  ,
+  "order-info": {
+    "deposit-paymentId": "1",
+    "id": "20220509225200001",
+    "amount": 1000.0
+  }
 }
