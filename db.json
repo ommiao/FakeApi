@@ -1,14 +1,15 @@
 {
-  "commodities": [
-    {
-      "id": 1,
-      "name": "Airpods Pro",
-      "price": 1999
-    },
-    {
-      "id": 2,
-      "name": "iPhone",
-      "price": 6799
-    }
-  ]
+  "story_1_ac_1": {
+    "bidding-contracts": [
+      {
+        "id": "1",
+        "deposit-payment": {
+          "order-info": {
+            "id": "20220509225200001",
+            "amount": 1000.0
+          }
+        }
+      }
+    ]
+  }
 }
