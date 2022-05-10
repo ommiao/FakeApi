@@ -1,15 +1,18 @@
 {
-  "story_1_ac_1": {
-    "bidding_contracts": [
-      {
-        "id": "1",
-        "deposit-payment": {
-          "order-info": {
-            "id": "20220509225200001",
-            "amount": 1000.0
+  "scenarios": [
+    {
+      "id": "story_1_ac_1",
+      "bidding-contracts": [
+        {
+          "id": "1",
+          "deposit-payment": {
+            "order-info": {
+              "id": "20220509225200001",
+              "amount": 1000.0
+            }
           }
         }
-      }
-    ]
-  }
+      ]
+    }
+  ]
 }
