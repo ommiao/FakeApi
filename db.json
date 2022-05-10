@@ -1,6 +1,6 @@
 {
   "story_1_ac_1": {
-    "bidding-contracts": [
+    "bidding_contracts": [
       {
         "id": "1",
         "deposit-payment": {
