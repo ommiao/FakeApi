@@ -9,7 +9,7 @@
     "bidding-contractId": "1"
   }
   ,
-  "order-info": {
+  "deposit-order-info": {
     "bidding-contractId": "1",
     "id": "20220509225200001",
     "amount": 1000.0,
