@@ -10,10 +10,9 @@
   }
   ,
   "order-info": {
-    "id": "1000",
     "bidding-contractId": "1",
-    "deposit-paymentId": "1",
+    "id": "20220509225200001",
     "amount": 1000.0,
-    "paymentMethod": "ALIPAY"
+    "payment-method": "ALIPAY"
   }
 }
