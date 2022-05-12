@@ -14,5 +14,19 @@
     "id": "20220509225200001",
     "amount": 1000.0,
     "payment-method": "ALIPAY"
-  }
+  },
+  "auction-announcements": [
+    {
+      "id": "1",
+      "title": "镇国神器商后母戊鼎",
+      "main-picture-url": "https://pics4.baidu.com/feed/64380cd7912397dde440c60375df3dbed0a28766.jpeg",
+      "bidding-start-time": "2022-06-01T08:30:00+08:00"
+    },
+    {
+      "id": "2",
+      "title": "传国玉玺",
+      "main-picture-url": "https://pics4.baidu.com/feed/72f082025aafa40f6331eb5281398c4679f0192b.jpeg",
+      "bidding-start-time": "2022-06-02T08:30:00+08:00"
+    }
+  ]
 }
