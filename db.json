@@ -1,31 +1,91 @@
 {
-  "bidding-contracts": [
-    {
-      "id": "1"
-    }
-  ],
-  "deposit-payment": {
-    "id": "1",
-    "bidding-contractId": "1"
-  },
-  "deposit-order-info": {
-    "bidding-contractId": "1",
-    "id": "20220509225200001",
-    "amount": 1000.0,
-    "payment-method": "ALIPAY"
-  },
-  "auction-announcements": [
-    {
-      "id": "1",
-      "title": "镇国神器商后母戊鼎",
-      "main-picture-url": "https://pics4.baidu.com/feed/64380cd7912397dde440c60375df3dbed0a28766.jpeg",
-      "bidding-start-time": "2022-06-01T08:30:00+08:00"
+    "bidding-contracts": [
+        {
+            "id": "1"
+        }
+    ],
+    "deposit-payment": {
+        "id": "1",
+        "bidding-contractId": "1"
     },
-    {
-      "id": "2",
-      "title": "传国玉玺",
-      "main-picture-url": "https://pics4.baidu.com/feed/72f082025aafa40f6331eb5281398c4679f0192b.jpeg",
-      "bidding-start-time": "2022-06-02T08:30:00+08:00"
-    }
-  ]
+    "deposit-order-info": {
+        "bidding-contractId": "1",
+        "id": "20220509225200001",
+        "amount": 1000,
+        "payment-method": "ALIPAY"
+    },
+    "auction-announcements": [
+        {
+            "id": "1",
+            "title": "镇国神器商后母戊鼎",
+            "main-picture-url": "https://pics4.baidu.com/feed/64380cd7912397dde440c60375df3dbed0a28766.jpeg",
+            "bidding-start-time": "2022-06-01T08:30:00+08:00"
+        },
+        {
+            "id": "2",
+            "title": "传国玉玺",
+            "main-picture-url": "https://pics4.baidu.com/feed/72f082025aafa40f6331eb5281398c4679f0192b.jpeg",
+            "bidding-start-time": "2022-06-02T08:30:00+08:00"
+        },
+        {
+            "id": "3",
+            "title": "汉谟拉比法典",
+            "main-picture-url": "https://pics4.baidu.com/feed/d1160924ab18972bdecbdc812b585b809f510a22.jpeg",
+            "bidding-start-time": "2022-06-02T08:30:00+08:00"
+        },
+        {
+            "id": "4",
+            "title": "曾侯乙编钟",
+            "main-picture-url": "https://pics5.baidu.com/feed/bba1cd11728b4710f320b7fc1d5be3f4fc032315.jpeg",
+            "bidding-start-time": "2022-06-02T08:30:00+08:00"
+        },
+        {
+            "id": "5",
+            "title": "奈菲尔提蒂半身像",
+            "main-picture-url": "https://pics7.baidu.com/feed/faf2b2119313b07e2ffaf14fc142b12a96dd8c55.jpeg",
+            "bidding-start-time": "2022-06-02T08:30:00+08:00"
+        },
+        {
+            "id": "6",
+            "title": "太阳神鸟",
+            "main-picture-url": "https://pics2.baidu.com/feed/3bf33a87e950352a098bb39d9ed6dbfbb0118bd8.jpeg",
+            "bidding-start-time": "2022-06-02T08:30:00+08:00"
+        },
+        {
+            "id": "7",
+            "title": "欧弗洛尼奥斯陶瓶",
+            "main-picture-url": "https://pics0.baidu.com/feed/574e9258d109b3de95a9665f0a2a4c88800a4c15.jpeg",
+            "bidding-start-time": "2022-06-02T08:30:00+08:00"
+        },
+        {
+            "id": "8",
+            "title": "图坦卡蒙黄金面具",
+            "main-picture-url": "https://pics2.baidu.com/feed/3c6d55fbb2fb4316a3943479ee31662a08f7d34d.jpeg",
+            "bidding-start-time": "2022-06-02T08:30:00+08:00"
+        },
+        {
+            "id": "9",
+            "title": "东汉铜奔马",
+            "main-picture-url": "https://pics5.baidu.com/feed/6609c93d70cf3bc783bc50ff0d959aa8cc112a87.jpeg",
+            "bidding-start-time": "2022-06-02T08:30:00+08:00"
+        },
+        {
+            "id": "10",
+            "title": "曜变天目茶碗",
+            "main-picture-url": "https://pics0.baidu.com/feed/11385343fbf2b211fdfabfe30d1545310ed78ee1.jpeg",
+            "bidding-start-time": "2022-06-02T08:30:00+08:00"
+        },
+        {
+            "id": "11",
+            "title": "小目标纪念币",
+            "main-picture-url": "https://b0.bdstatic.com/comment/WlUJUHUsQRCJTXFtjKVh_A35ee2b3275ce08580359d33ca593a677.jpg",
+            "bidding-start-time": "2022-06-02T08:30:00+08:00"
+        },
+        {
+            "id": "12",
+            "title": "古时潮流摩托",
+            "main-picture-url": "https://b0.bdstatic.com/comment/Cs_mVGrHPhF8wrFlYH0jJg3ec806b13fce7e4d8b156de6c82ac305.jpg",
+            "bidding-start-time": "2022-06-02T08:30:00+08:00"
+        }
+    ]
 }
